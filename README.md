@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vision-Based Autonomous 4WD Delivery Robot
 
 A camera-based sign recognition system for a 4WD delivery robot, built with YOLOv8.
@@ -272,3 +273,7 @@ All external datasets, code, and models used by this project are acknowledged he
 ## License
 
 The cleaned dataset is shared under **CC BY-NC-SA 4.0**, as required by the source dataset. The project code and documentation were created for coursework.
+=======
+# csec5-projects
+CSEC 5 - Computer Vision
+>>>>>>> 5b5cff11c9b60dc9e638cfdd081d7783d02a750b
