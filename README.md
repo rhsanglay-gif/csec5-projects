@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vision-Based Autonomous 4WD Delivery Robot
 
 A camera-based sign recognition system for a 4WD delivery robot, built with YOLOv8.
